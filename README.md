@@ -2,7 +2,7 @@
 
 # GD UUID
 
-GD UUID is a Godot library that generate UUIDs.
+GD UUID is a Godot library that generates UUIDs.
 Currently, it supports UUID v7 only.
 
 [Godot Asset Library](https://godotengine.org/asset-library/asset/)
