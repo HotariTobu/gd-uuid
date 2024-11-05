@@ -6,7 +6,7 @@
   "category_id": "6",
   "godot_version": "4.0",
   "cost": "CC0",
-  "description": "GD UUID is a Godot library that generate UUIDs. Currently, it supports UUID v7 only.",
+  "description": "GD UUID is a Godot library that generates UUIDs. Currently, it supports UUID v7 only.",
   "download_provider": "GitHub",
   "download_commit": "{{ env.GITHUB_SHA }}",
   "browse_url": "{{ context.repository.html_url }}",
