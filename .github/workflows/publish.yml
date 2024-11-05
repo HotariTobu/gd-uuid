@@ -17,5 +17,5 @@ jobs:
         with:
           username: Hotari
           password: ${{ secrets.ASSET_STORE_PASSWORD }}
-          assetId: 00000000000000000000000000000000000000000
+          assetId: 3472
           assetTemplate: .asset-template
