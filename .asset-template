@@ -1,0 +1,15 @@
+{
+  "type": "addon",
+  "title": "GD UUID",
+  "version_string": "{{ context.release.tag_name }}",
+  "category": "Scripts",
+  "category_id": "6",
+  "godot_version": "4.0",
+  "cost": "CC0",
+  "description": "GD UUID is a Godot library that generate UUIDs. Currently, it supports UUID v7 only.",
+  "download_provider": "GitHub",
+  "download_commit": "{{ env.GITHUB_SHA }}",
+  "browse_url": "{{ context.repository.html_url }}",
+  "issues_url": "{{ context.repository.html_url }}/issues",
+  "icon_url": "https://raw.githubusercontent.com/{{ context.repository.full_name }}/refs/heads/main/images/icon.png"
+}
