@@ -1,3 +1,4 @@
+@tool
 class_name UUID
 
 static var fallback_random = BuildInRandom.new()
